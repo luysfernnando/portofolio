@@ -82,7 +82,7 @@ const StackCat = styled.span`
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: ${({ theme }) => theme.colors.textSecondary};
+  color: ${({ theme }) => theme.colors.primary};
   padding-top: 0.1rem;
 `;
 

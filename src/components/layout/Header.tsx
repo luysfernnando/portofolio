@@ -89,7 +89,7 @@ const NavLink = styled(motion.button)`
     left: 0;
     width: 0;
     height: 1px;
-    background: ${({ theme }) => theme.colors.accent};
+    background: ${({ theme }) => theme.isDark ? '#60a5fa' : theme.colors.primary};
     transition: width 0.3s ease;
   }
 
