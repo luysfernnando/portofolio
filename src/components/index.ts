@@ -2,5 +2,6 @@ export { Header } from './layout/Header';
 export { Footer } from './layout/Footer';
 export { Hero } from './sections/Hero';
 export { Experiences } from './sections/Experiences';
+export { Education } from './sections/Education';
 export { Projects } from './sections/Projects';
 export { Contact } from './sections/Contact';

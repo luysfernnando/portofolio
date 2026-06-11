@@ -93,6 +93,15 @@
       }
     ]
   },
+  "education": {
+    "title": "Formação Acadêmica",
+    "institution": "Universidade Católica de Brasília",
+    "degree": "Análise e Desenvolvimento de Sistemas",
+    "period": "jan 2021 – jul 2023",
+    "type": "graduação",
+    "institution_label": "instituição",
+    "period_label": "período"
+  },
   "projects": {
     "section_title": "Projeto principal",
     "electios": {

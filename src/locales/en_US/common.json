@@ -93,6 +93,15 @@
       }
     ]
   },
+  "education": {
+    "title": "Education",
+    "institution": "Universidade Católica de Brasília",
+    "degree": "Systems Analysis and Development",
+    "period": "Jan 2021 – Jul 2023",
+    "type": "degree",
+    "institution_label": "institution",
+    "period_label": "period"
+  },
   "projects": {
     "section_title": "Main project",
     "electios": {
